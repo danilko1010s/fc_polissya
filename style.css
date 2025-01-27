@@ -1,8 +1,13 @@
 body {
-  background: #66c013 url("img/images.jfif") repeat 50%;
+  background: #386b07 url("img/bg.jpg") no-repeat  ;
   font-family: "Verdana", "Arial Narrow", Arial, sans-serif;
   font-size: 20px;
   color: #1b1919;
+ footer{ 
+  background-color: #0a0a0a;
+  color: white;
+ }
+
 }
 
 h1 {
@@ -17,4 +22,7 @@ p {
 
 img {
   width: 100px;
+}
+#highlights {
+  background-color: #2be6792f;
 }
