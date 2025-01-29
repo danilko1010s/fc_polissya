@@ -25,4 +25,17 @@ img {
 }
 #highlights {
   background-color: #2be6792f;
+  display: flex;
+  flex-direction: column;
 }
+.highlights-container 
+{ 
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+
+}
+ .highlights-container  article
+ {
+width: 300px;
+ }
